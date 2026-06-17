@@ -152,5 +152,5 @@ India
 
 ## Author
 
-Aparna Mishra
-Quality Assurance Analyst
+**Aparna Mishra**  
+Quality Assurance Engineer
